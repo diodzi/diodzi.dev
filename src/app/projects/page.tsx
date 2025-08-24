@@ -10,7 +10,7 @@ export default async function ProjectsPage() {
           <ArrowBtn href='/projects'>Experience</ArrowBtn>
         </nav>
         <section className='space-y-8'>
-          <h1 className='text-8xl font-semibold hidden lg:block intersect-once intersect:motion-preset-slide-up-lg'>
+          <h1 className='text-6xl lg:text-8xl font-semibold intersect-once intersect:motion-preset-slide-up-lg'>
             wait don't look yet
           </h1>
           <p className='font-medium text-xl lg:w-1/2'>
