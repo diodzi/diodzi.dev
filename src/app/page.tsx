@@ -33,7 +33,9 @@ export default function Home() {
       <footer className='intersect-once intersect:motion-preset-slide-up-lg px-6 py-2 flex justify-between items-center font-medium'>
         <div className='text-lg'>ATL - NYC - BOS</div>
         <div className='hidden lg:block'>
-          <ArrowBtn href='https://github.com/bruh'>View this repo</ArrowBtn>
+          <ArrowBtn href='https://github.com/diodzi/diodzi.dev'>
+            View this repo
+          </ArrowBtn>
         </div>
         <div className='flex items-center gap-x-2'>
           <CopyrightIcon size={15} strokeWidth={2.5} />{' '}
